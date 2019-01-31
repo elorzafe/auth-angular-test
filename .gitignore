@@ -41,3 +41,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+src/aws-exports.js
+.amplifyrc
+amplify/
